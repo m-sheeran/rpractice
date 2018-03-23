@@ -1,1 +1,3 @@
-This repo contains fake generated ecomm data. The purpose was an inital exploration of creating a heatmap for daily ecomm orders using the leaflet package in R.
+This repo contains various examples of analyses I've done in the past or some area of R programming I'm exploring.
+
+Where possible I've generated some sample data to use in conjunction with the R scripts.
